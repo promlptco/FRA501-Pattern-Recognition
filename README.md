@@ -1,1 +1,1 @@
-# FRA501-Pattern_Recognition
+# FRA501-Pattern-Recognition
